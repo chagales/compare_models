@@ -130,7 +130,7 @@ Based on [CVEfixes](https://github.com/secureIT-project/CVEfixes) dataset with s
 ```bibtex
 @article{vulnerability_detection_llm_2025,
   title={Analysis of the Precision of LLM Code Generation for Vulnerability Detection},
-  author={[Authors]},
+  author={[Federico Muñoz-Babianoa, Paula Lamo and Ricardo S. Alonso ]},
   journal={[Journal]},
   year={2025}
 }
